@@ -13,7 +13,7 @@ public class PickFromBothSides {
 	 * rightSum += A[r]
 	 * 
 	 */
-	public int solvePickFromBothSides(ArrayList<Integer> A, int B) {
+	public static int solvePickFromBothSides(ArrayList<Integer> A, int B) {
 		// T(n) : O(n), S(n) : O(1)
 		
 		int currSum = 0;
