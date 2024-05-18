@@ -1,3 +1,4 @@
+package example.generics;
 
 import java.util.*;
 
